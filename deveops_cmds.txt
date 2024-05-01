@@ -1,0 +1,62 @@
+
+GITHUB TOKEN: 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
+
+
+D:\P-FILES\DEVEOPS\AWSCLI>doskey /history
+aws s3 rm s3://buck180
+aws s3 ls
+aws s3 rm s3://buck180/Photo.jpg
+aws s3 ls s3://buck180
+aws s3 ls
+aws s3 ls s3://buck180/
+aws s3 ls s3://buck180
+aws s3 ls s3://buck191
+aws s3 ls s3://buck180
+aws s3 cp s3://buck180/Photo.jpg s3://buck191
+aws s3 ls s3://buck191
+aws s3 ls s3://buck180
+aws s3 rm s3://buck180/Photo.jpg
+aws s3 ls
+aws s3 ls s3://buck180
+aws s3 mv s3://buck191/Photo.jpg s3://buck180
+aws s3 ls s3://buck180
+aws s3 mb s3://buck78690
+aws s3 mb s3://mybucket \
+aws s3 mb s3://mybucket \ --region us-west-1
+aws s3 mb s3://my4565bucket --region us-west-1
+aws s3 ls
+aws s3 presign s3://buck180/test2.txt
+aws s3 rm s3://buck78690
+aws s3 ls
+aws s3 rm s3://buck78690 --force
+aws s3 rb s3://buck78690 --force
+awsaws s3 ls
+aws s3 ls
+aws s3 rb s3://my4656bucket
+aws s3 rb s3://my4565bucket
+aws s3 ls
+aws s3 sync s3:/buck191/ s3:/buck180
+aws s3 sync s3:/buck191/Photo.jpg s3:/buck180
+dir
+aws s3 sync s3://buck191/ s3://buck180
+aws s3 sync s3://bucket191/ .
+aws s3 sync . s3://buck180/
+aws s3 ls s3://bucket180
+aws s3 ls
+aws s3 ls s3://buck180
+dir
+aws s3 website s3://buck180/ --index-document index.html --error-document error.html
+aws s3 website s3://buck180/
+aws s3 ls
+aws s3 rb s3://my4565bucket
+    aws --version
+hisory -00
+/history
+doskey /history
+
+D:\P-FILES\DEVEOPS\AWSCLI>
+
+
+aws s3 website s3://buck180/ --index-document index.html --error-document error.html
+
+http://buck180.s3-website-us-east-1.amazonaws.com.
